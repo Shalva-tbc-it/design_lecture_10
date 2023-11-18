@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Design</string>
+    <string name="profile">Profile</string>
+    <string name="shalva_sarukhyan">Shalva Sarukhyan</string>
+    <string name="number">+1 111 467 378 399</string>
+
+    <string name="choose_language">English (US)</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="address">Address</string>
+    <string name="notification">Notification</string>
+    <string name="payment">Payment</string>
+    <string name="security">Security</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="help_center">Help Center</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="logout">Logout</string>
 </resources>

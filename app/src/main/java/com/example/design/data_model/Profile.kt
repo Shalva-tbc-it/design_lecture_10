@@ -7,5 +7,6 @@ data class Profile(
     val icon: Int,
     val title: String,
     val language: String? = null,
-    val arrow: Int? = null
+    val arrow: Int? = null,
+    var isRed: Boolean = false
 )
